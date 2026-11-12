@@ -1,0 +1,7 @@
+server,region,cpu_cores,memory_gb,status
+server-01,Seoul,4,8,active
+server-02,Tokyo,8,32,active
+server-03,Seoul,16,64,active
+server-04,Busan,2,4,inactive
+server-05,Tokyo,12,48,active
+server-06,Busan,4,16,inactive
